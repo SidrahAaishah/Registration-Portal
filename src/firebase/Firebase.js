@@ -2,7 +2,7 @@ import firebase from 'firebase/compat/app'
 import 'firebase/compat/database'
 
 const firebaseConfig = {
-  apiKey: "AIzaSyC_1MWmu7fR8zdnuCz92aj_fsihDHXXxmA",
+  apiKey: "AIzaSyC_1MWmu7fR8zdnuCz92aj_fsihDHXXxm",
   authDomain: "event-registration-porta-f23c7.firebaseapp.com",
   projectId: "event-registration-porta-f23c7",
   storageBucket: "event-registration-porta-f23c7.appspot.com",
